@@ -13,7 +13,7 @@ class page extends StatelessWidget {
         child: ListView(
           children: [
             Container(
-                height: 80,
+                height: 70,
                 child: Row(
                   children: [
                     Image.network(
